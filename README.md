@@ -1,4 +1,8 @@
-My chnages in RepoA
+<<<<<<< HEAD
+
+=======
+My chnages in RepoB
+>>>>>>> 8818b11 (Commit form ReoB)
 Servlet example with corresponding Dockerfile
 
 Use Maven Build first to create war file in Target folder.
